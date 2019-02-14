@@ -1,2 +1,5 @@
 # D3_Data_Journalism
-Assignment 13 (D3.js) 
+
+Correlations Discovered Between Households That Lack Healthcare and Poverity Percentage Rates.
+
+Interactive scatterplot that shows a positive correlation between poverty and obesity by U.S. state.
